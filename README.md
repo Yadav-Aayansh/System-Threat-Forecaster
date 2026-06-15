@@ -122,12 +122,6 @@ jupyter notebook jupyter_notebook.ipynb
 Run the cells top-to-bottom to reproduce the EDA, preprocessing, models, and final ensemble submission.
 
 🌟 You are all set!
-<hr>
-
-## 📸 Screenshots
-![Effective Leaderboard](assets/Effective_Leaderboard.png)
-![Final Accuracy 0.6495](assets/0.6495_screenshot.png)
-![The Diabolical Tuning](assets/Diabolical.png)
 
 <hr>
 <h3 align="center">
